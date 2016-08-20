@@ -1,2 +1,12 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+abbr.name{
+	white-space: nowrap;
+}
+
+.signature{
+	margin-top: 1em;
+	font-variant: small-caps;
+	text-align: right;
+}
