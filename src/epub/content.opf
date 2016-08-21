@@ -30,10 +30,11 @@
 			LONGDESCRIPTION
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>https://catalog.hathitrust.org/Record/008672403</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15900</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/008672403</dc:source>
+		<meta property="se:word-count">145964</meta>
+		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/L%27%C5%92uvre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-zola_his-masterpiece_ernest-alfred-vizetelly</meta>
 		<dc:creator id="author">Émile Zola</dc:creator>
@@ -49,6 +50,7 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
 		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
