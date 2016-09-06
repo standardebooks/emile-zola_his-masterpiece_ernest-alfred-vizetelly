@@ -23,7 +23,7 @@
 		<dc:subject id="subject-2">Paris (France) -- Intellectual life -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/15900</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/15900</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -32,7 +32,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15900</dc:source>
-		<dc:source>https://catalog.hathitrust.org/Record/008672403</dc:source>
+		<dc:source>https://archive.org/details/hismasterpiecel00vizegoog</dc:source>
 		<meta property="se:word-count">145964</meta>
 		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/L%27%C5%92uvre</meta>
