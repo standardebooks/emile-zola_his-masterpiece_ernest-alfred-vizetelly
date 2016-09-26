@@ -51,10 +51,10 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
-		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055446</meta>
+		<dc:contributor id="artist">Édouard Manet</dc:contributor>
+		<meta property="file-as" refines="#artist">Manet, Édouard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/%C3%89douard_Manet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043160</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
