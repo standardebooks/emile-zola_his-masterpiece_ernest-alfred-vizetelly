@@ -26,22 +26,22 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">His Masterpiece</dc:title>
 		<meta property="file-as" refines="#title">His Masterpiece</meta>
 		<dc:subject id="subject-1">Impressionist artists -- France -- Paris -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Paris (France) -- Intellectual life -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/15900</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/15900</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A groundbreaking painter struggles to leave his mark on the bohemian art world of 19th-century Paris.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;His Masterpiece&lt;/i&gt;, sometimes translated as “The Work” or “The Masterpiece,” is Zola’s 14th entry in his Rougon-Macquart series of novels. In it we see Claude Lantier, a painter with obvious talent, struggle to leave a revolutionary mark on the art world of 19th-century Paris. The novel deftly explores the themes of genius, poverty, purity in art, art as an beaurocratic institution, obsession, and madness.&lt;/p&gt;
 			&lt;p&gt;The book is notable not just for its accurate portrayal of the art world of the time, but also for the interesting personal details Zola incorporated into the book. Lantier is a pastiche of several famous painters Zola personally knew, including Paul Cézanne, Claude Monet, and Édouard Manet; Lantier’s masterpiece is based on Manet’s revolutionary painting &lt;i&gt;Le Déjeuner sur l’herbe&lt;/i&gt;; and the novel’s accuracy is even blamed on ending the long friendship between Zola and Cézanne. Zola himself includes a self-portrait, as the character Pierre Sandoz.&lt;/p&gt;
 			&lt;p&gt;Vizetelly’s translation is fresh and readable, and Zola’s rendition of Paris and the surrounding countryside is vibrant and engrossing. Rarely do we get such a close and engaging window into bohemian life in old Paris.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15900</dc:source>
 		<dc:source>https://archive.org/details/hismasterpiecel00vizegoog</dc:source>
