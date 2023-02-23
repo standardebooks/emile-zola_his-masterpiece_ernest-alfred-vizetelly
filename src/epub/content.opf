@@ -61,7 +61,6 @@
 		<meta property="file-as" refines="#translator">Vizetelly, Ernest Alfred</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Ernest_Alfred_Vizetelly</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n86005794</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
