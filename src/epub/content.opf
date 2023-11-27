@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15900</dc:source>
 		<dc:source>https://archive.org/details/hismasterpiecel00vizegoog</dc:source>
-		<meta property="se:word-count">146103</meta>
+		<meta property="se:word-count">146101</meta>
 		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/L%27%C5%92uvre</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-zola_his-masterpiece_ernest-alfred-vizetelly</meta>
